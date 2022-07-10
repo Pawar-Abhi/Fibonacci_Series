@@ -9,5 +9,5 @@ def fibonacci(n):
         print(third)
         first, second = second, third
 
-n = 7
+n = 8
 fibonacci(n)
