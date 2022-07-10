@@ -1,4 +1,4 @@
-import math
+import math #math function imported
 
 def factorial(n):
     for i in range(1, n + 1):
