@@ -5,6 +5,5 @@ def factorial(n):
         result = ((((1 + math.sqrt(5))/2)**(i-1)) - (((1- math.sqrt(5))/2)**(i - 1))) / math.sqrt(5)
         print(int(result), end=" , ")
 
-
 n = int(input("Enter number of terms term: "))
 factorial(n)
