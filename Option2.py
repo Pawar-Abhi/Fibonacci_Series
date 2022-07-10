@@ -1,3 +1,4 @@
+#option 2
 def fibonacci(n):
     first = 0
     second = 1
