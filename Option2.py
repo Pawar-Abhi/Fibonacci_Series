@@ -9,5 +9,5 @@ def fibonacci(n):
         print(third)
         first, second = second, third
 
-n = int(input("Enter nth term: "))
+n = 7
 fibonacci(n)
